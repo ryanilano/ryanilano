@@ -25,7 +25,7 @@ Portfolio and writing: **[ilano.fyi](https://ilano.fyi)**
 
 ### Homelab
 
-- **[vps-plausible-stack](https://github.com/ryanilano/vps-plausible-stack)** self-hosts Plausible behind Caddy on a 2 GB Debian VPS. I'm running mine on IONOS for $4 a month.
+- **[vps-plausible-stack](https://github.com/ryanilano/vps-plausible-stack)** self-hosts Plausible (privacy, GDPR respecting Google Analytics) behind Caddy on a 2 GB Debian VPS. I'm running mine on IONOS for $4 a month. Works great.
 - **[hackintosh-asus-b650ef-amd](https://github.com/ryanilano/hackintosh-asus-b650ef-amd)** is the OpenCore config for a Ryzen 9 7900X and RX 6950 XT build. Repo is retired, but maybe you want to mess with it?
 
 Based in New York.
