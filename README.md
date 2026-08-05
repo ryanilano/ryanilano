@@ -21,7 +21,7 @@ Portfolio and writing: **[ilano.fyi](https://ilano.fyi)**
 
 ### Web
 
-- **[subfolio-astro](https://github.com/ryanilano/subfolio-astro)** ports [AREA 17's Subfolio](https://github.com/area17/subfolio) from its original Kohana 2.x and PHP 5.6 stack to an Astro static site. A folder on disk becomes a themeable web gallery, still with no database.
+- **[subfolio-astro](https://github.com/ryanilano/subfolio-astro)** ports [Area17's Subfolio](https://github.com/area17/subfolio) from its original Kohana 2.x and PHP 5.6 stack to an Astro static site. A folder on disk becomes a themeable web gallery, still with no database. I ran the original in production for years before porting it.
 
 ### Homelab
 
