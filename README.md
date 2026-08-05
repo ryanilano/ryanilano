@@ -17,15 +17,15 @@ Portfolio and writing: **[ilano.fyi](https://ilano.fyi)**
 
 ### Local inference
 
-- **[localai-16gb-bench](https://github.com/ryanilano/localai-16gb-bench)** benchmarks any GGUF model family on a 16 GB NVIDIA GPU and helps you pick a daily driver.
+- **[localai-16gb-bench](https://github.com/ryanilano/localai-16gb-bench)** benchmarks any GGUF model family on a 16 GB NVIDIA GPU and helps you pick a daily driver. Spoiler: So far the DavidAU IQ3M Quant of Qwen3.6-27B wins, and has an 80K context window. Results coming soon.
 
 ### Web
 
-- **[subfolio-astro](https://github.com/ryanilano/subfolio-astro)** ports [Area17's Subfolio](https://github.com/area17/subfolio) from its original Kohana 2.x and PHP 5.6 stack to an Astro static site. A folder on disk becomes a themeable web gallery, still with no database. I ran the original in production for years before porting it.
+- **[subfolio-astro](https://github.com/ryanilano/subfolio-astro)** ports [Area17's Subfolio](https://github.com/area17/subfolio) from its original Kohana 2.x and PHP 5.6 stack to an Astro static site. A folder on disk becomes a themeable web gallery, still with no database. I ran the original in production for years before porting it. This can be run for free on CloudFlare Pages. [Read the docs!](https://ryanilano.github.io/subfolio-astro-docs/docs/journey/)
 
 ### Homelab
 
-- **[vps-plausible-stack](https://github.com/ryanilano/vps-plausible-stack)** self-hosts Plausible behind Caddy on a 2 GB Debian VPS.
-- **[hackintosh-asus-b650ef-amd](https://github.com/ryanilano/hackintosh-asus-b650ef-amd)** is the OpenCore config for a Ryzen 9 7900X and RX 6950 XT build.
+- **[vps-plausible-stack](https://github.com/ryanilano/vps-plausible-stack)** self-hosts Plausible behind Caddy on a 2 GB Debian VPS. I'm running mine on IONOS for $4 a month.
+- **[hackintosh-asus-b650ef-amd](https://github.com/ryanilano/hackintosh-asus-b650ef-amd)** is the OpenCore config for a Ryzen 9 7900X and RX 6950 XT build. Repo is retired, but maybe you want to mess with it?
 
 Based in New York.
