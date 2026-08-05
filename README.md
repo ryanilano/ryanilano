@@ -13,7 +13,7 @@ Portfolio and writing: **[ilano.fyi](https://ilano.fyi)**
 - **[maxx-headroom](https://github.com/ryanilano/maxx-headroom)** coordinates multiple Claude Code accounts across rolling usage limits.
 - **[ilano-skills](https://github.com/ryanilano/ilano-skills)** collects the agent skills I make and use, built on the open Agent Skills standard.
 - **[deepclaude-launchagent](https://github.com/ryanilano/deepclaude-launchagent)** runs Claude Code against cheaper models and switches back with a slash command.
-- **[ai-safety-check](https://github.com/ryanilano/ai-safety-check)** grades self-hosted AI tools red, yellow, or green on six supply-chain signals.
+- **[ai-safety-check](https://github.com/ryanilano/ai-safety-check)** grades self-hosted AI tools red, yellow, or green on six supply-chain signals. Built for the Nebius × Emergence hackathon.
 
 ### Local inference
 
