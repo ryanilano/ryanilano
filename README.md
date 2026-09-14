@@ -1,12 +1,16 @@
 ## Ryan Ilano
 
-Design and code are the same discipline, not adjacent ones. I was the designer and the front-end developer on a design system and component library running 85 magazine sites across 60+ brands: the same person who translated product requirements into designs also committed the SCSS.
+**AI-native design engineer.** Design and code are the same discipline, not adjacent ones. I was the designer and the front-end developer on a design system and component library running 85 magazine sites across 60+ brands: the same person who translated product requirements into designs also committed the SCSS.
 
-These days I build with AI in the loop: coding agents doing real work in my repos, local models running in my homelab, and routing between them and frontier APIs based on cost and capability.
+Now I build with AI in the loop. Coding agents doing real work in my repos, local models running in my homelab, and a router that picks between them and frontier APIs on cost and capability. What I care about most is the interface layer of AI products: streaming, tool use, agent supervision, and accessibility that is designed in from the start instead of bolted on.
 
 Portfolio and writing: **[ilano.fyi](https://ilano.fyi)**
 
 ---
+
+### Featured
+
+- **[Cheapshot](https://ilano.fyi/writing/nothing-to-trust)** is on-device OCR for macOS that reads text from screenshots and screen recordings and redacts secrets, keys, tokens, card numbers, emails, and IP addresses, before anything is uploaded to an AI or API. It runs on Apple's Vision framework, so nothing leaves the machine, and it cut my own token bill by 86 percent. [Read the story](https://ilano.fyi/writing/nothing-to-trust).
 
 ### AI tooling
 
@@ -28,4 +32,4 @@ Portfolio and writing: **[ilano.fyi](https://ilano.fyi)**
 - **[vps-plausible-stack](https://github.com/ryanilano/vps-plausible-stack)** self-hosts Plausible (privacy, GDPR respecting Google Analytics) behind Caddy on a 2 GB Debian VPS. I'm running mine on IONOS for $4 a month. Works great.
 - **[hackintosh-asus-b650ef-amd](https://github.com/ryanilano/hackintosh-asus-b650ef-amd)** is the OpenCore config for a Ryzen 9 7900X and RX 6950 XT build. Repo is retired, but maybe you want to mess with it?
 
-Based in New York.
+Based in New York. Open to design engineering roles at AI companies.
